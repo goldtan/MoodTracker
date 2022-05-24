@@ -1,2 +1,2 @@
-# README2Vec
+# MoodTracker
 2022 NLP Term Project
